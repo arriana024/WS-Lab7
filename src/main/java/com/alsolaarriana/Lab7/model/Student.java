@@ -1,4 +1,4 @@
-package com.alsolaarriana.Lab7;
+package com.alsolaarriana.Lab7.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

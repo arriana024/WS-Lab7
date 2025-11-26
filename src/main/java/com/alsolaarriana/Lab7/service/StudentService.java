@@ -1,5 +1,6 @@
-package com.alsolaarriana.Lab7;
+package com.alsolaarriana.Lab7.service;
 
+import com.alsolaarriana.Lab7.model.Student;
 import org.springframework.stereotype.Service;
 import java.util.ArrayList;
 import java.util.List;

@@ -1,5 +1,7 @@
-package com.alsolaarriana.Lab7;
+package com.alsolaarriana.Lab7.controller;
 
+import com.alsolaarriana.Lab7.service.StudentService;
+import com.alsolaarriana.Lab7.model.Student;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
